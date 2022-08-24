@@ -1,7 +1,3 @@
-html {
-    margin: 0;
-    
-}
 body {
     height: 100%;
     margin: 0;
@@ -29,3 +25,8 @@ main {
 #social {
     margin-right: 30px;
 }
+
+#card-img {
+    padding-top: 20px;
+}
+
